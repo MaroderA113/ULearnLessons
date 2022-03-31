@@ -14,25 +14,9 @@ namespace ConsoleApp12
 
 		public static string ReplaceIncorrectSeparators(string text)
 		{
-			string[] textArr = text.Split(' ');
-			
-			var textList = new List<string>();
-
-			foreach (string str in textArr)
-				if (str != " " && str != ";" && str != ":" && str != "," && str != "-")
-					textList.Add(str);
-
-			string res = "";
-
-			foreach (string str in textList)
-				res += str + "\t";
-
-			res = res.Replace(":", "");
-			res = res.Replace(";", "");
-			res = res.Replace(",", "");
-			res = res.Replace("-", "");
-
-			return res;
+			string[] separators = new string[] { " ", "-", ":", ";", ",", " - ", ": ", "; ", ", " };
+			string[] str = text.Split(separators, StringSplitOptions.RemoveEmptyEntries);
+			return string.Join("\t",str);
 		}
 	}
 }
