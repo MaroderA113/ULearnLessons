@@ -32,5 +32,14 @@ namespace Solver.Tests
 			//Act - Вызов функциональности
 			TestEquation(1, 1, 1, new double[0]);
 		}
+
+		[TestMethod]
+		public void ZeroDiscriminant()
+		{
+			//Arrange - Инициализация значения
+
+			//Act - Вызов функциональности
+			TestEquation(1, 2, 1, new double[1] {-1 });
+		}
 	}
 }
