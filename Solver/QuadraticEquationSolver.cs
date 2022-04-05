@@ -4,7 +4,8 @@ namespace Solver
 {
 	public class QuadraticEquationSolver
 	{
-		public static double[] Solve(double a, double b, double c)
+		public static double[] Solve
+			(double a, double b, double c)
 		{
 			var discriminant = b * b - 4 * a * c;
 			if (discriminant > 0)
