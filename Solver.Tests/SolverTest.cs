@@ -5,33 +5,32 @@ namespace Solver.Tests
 	[TestClass]
 	public class SolverTest
 	{
+		void TestEquation (double a, double b, double c, double[] expectedResult)
+		{
+			//Act - Вызов функциональности
+			var result = QuadraticEquationSolver.Solve(a, b, c);
+			//Assert - Проверка
+			Assert.AreEqual(expectedResult.Length, result.Length);
+			for (int i = 0; i < result.Length; i++)
+				Assert.AreEqual(expectedResult[i], result[i]);
+		}
 		
 		[TestMethod]
 		public void OrdinatyEquation()
 		{
 			//Arrange - Инициализация значения
-			var a = 1;
-			var b = -3;
-			var c = 2;
+
 			//Act - Вызов функциональности
-			var result = QuadraticEquationSolver.Solve(a, b, c);
-			//Assert - Проверка
-			Assert.AreEqual(2,result.Length);
-			Assert.AreEqual(2, result[0]);
-			Assert.AreEqual(1, result[1]);
+			TestEquation(1, -3, 2, new double[] { 2, 1 });
 		}
 
 		[TestMethod]
 		public void NegativeDiscriminant()
 		{
-			//AArrange - Инициализация значения
-			var a = 1;
-			var b = 1;
-			var c = 1;
+			//Arrange - Инициализация значения
+
 			//Act - Вызов функциональности
-			var result = QuadraticEquationSolver.Solve(a, b, c);
-			//Assert - Проверка
-			Assert.AreEqual(0, result.Length);
+			TestEquation(1, 1, 1, new double[0]);
 		}
 	}
 }
