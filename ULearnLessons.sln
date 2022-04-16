@@ -55,9 +55,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Solver.Tests", "Solver.Test
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProject1", "TestProject1\TestProject1.csproj", "{C2E955A7-3BA8-4F38-9E0D-400111B34ACC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp19", "ConsoleApp19\ConsoleApp19.csproj", "{5AFE9BB4-B8E7-4A1D-A60D-7AEF84D37546}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp19", "ConsoleApp19\ConsoleApp19.csproj", "{5AFE9BB4-B8E7-4A1D-A60D-7AEF84D37546}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp20", "ConsoleApp20\ConsoleApp20.csproj", "{38149634-A37A-4D11-B528-109BEC6377BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp20", "ConsoleApp20\ConsoleApp20.csproj", "{38149634-A37A-4D11-B528-109BEC6377BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp21", "ConsoleApp21\ConsoleApp21.csproj", "{ADBD0008-E287-4495-9BC1-BCD360556381}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -176,6 +178,10 @@ Global
 		{38149634-A37A-4D11-B528-109BEC6377BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38149634-A37A-4D11-B528-109BEC6377BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38149634-A37A-4D11-B528-109BEC6377BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADBD0008-E287-4495-9BC1-BCD360556381}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADBD0008-E287-4495-9BC1-BCD360556381}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADBD0008-E287-4495-9BC1-BCD360556381}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADBD0008-E287-4495-9BC1-BCD360556381}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
