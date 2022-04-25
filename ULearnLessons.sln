@@ -63,11 +63,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp21", "ConsoleApp2
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WindowsFormsApp2", "WindowsFormsApp2\WindowsFormsApp2.csproj", "{2D039327-067A-42E8-99C0-E7046A9B48F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp22", "ConsoleApp22\ConsoleApp22.csproj", "{B66AEB81-51EC-4623-A8BC-35D28A670266}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp22", "ConsoleApp22\ConsoleApp22.csproj", "{B66AEB81-51EC-4623-A8BC-35D28A670266}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp23", "ConsoleApp23\ConsoleApp23.csproj", "{8CBA15DE-2D7D-4897-A2A3-1BD263CF0E47}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp23", "ConsoleApp23\ConsoleApp23.csproj", "{8CBA15DE-2D7D-4897-A2A3-1BD263CF0E47}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp24", "ConsoleApp24\ConsoleApp24.csproj", "{3526933B-5787-4E3F-A664-8A3128A7AF91}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp24", "ConsoleApp24\ConsoleApp24.csproj", "{3526933B-5787-4E3F-A664-8A3128A7AF91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppOOP1", "ConsoleAppOOP1\ConsoleAppOOP1.csproj", "{026430F4-72FF-4440-9D4F-D8A6D0212E23}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppOOP2", "ConsoleAppOOP2\ConsoleAppOOP2.csproj", "{7E8F390C-6FF4-45FF-A874-37A4B7CBD33A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -206,6 +210,14 @@ Global
 		{3526933B-5787-4E3F-A664-8A3128A7AF91}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3526933B-5787-4E3F-A664-8A3128A7AF91}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3526933B-5787-4E3F-A664-8A3128A7AF91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{026430F4-72FF-4440-9D4F-D8A6D0212E23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{026430F4-72FF-4440-9D4F-D8A6D0212E23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{026430F4-72FF-4440-9D4F-D8A6D0212E23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{026430F4-72FF-4440-9D4F-D8A6D0212E23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E8F390C-6FF4-45FF-A874-37A4B7CBD33A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E8F390C-6FF4-45FF-A874-37A4B7CBD33A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E8F390C-6FF4-45FF-A874-37A4B7CBD33A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E8F390C-6FF4-45FF-A874-37A4B7CBD33A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
