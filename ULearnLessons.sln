@@ -77,19 +77,25 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppOOP3", "ConsoleAp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppOOP4", "ConsoleAppOOP4\ConsoleAppOOP4.csproj", "{E4DFFF7A-54FA-4395-BFF9-DB35FAEB1C8C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppOOP5", "ConsoleAppOOP5\ConsoleAppOOP5.csproj", "{A0A464C9-CD57-48E5-8F5D-B18BAF1BFF65}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppOOP5", "ConsoleAppOOP5\ConsoleAppOOP5.csproj", "{A0A464C9-CD57-48E5-8F5D-B18BAF1BFF65}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppOOP6", "ConsoleAppOOP6\ConsoleAppOOP6.csproj", "{808C38A7-8EDB-4450-B244-5F35E5BC33EC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppOOP6", "ConsoleAppOOP6\ConsoleAppOOP6.csproj", "{808C38A7-8EDB-4450-B244-5F35E5BC33EC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppOOP7", "ConsoleAppOOP7\ConsoleAppOOP7.csproj", "{7B4CCF85-2DE1-40BE-B7D2-C79C3F0110DD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppOOP7", "ConsoleAppOOP7\ConsoleAppOOP7.csproj", "{7B4CCF85-2DE1-40BE-B7D2-C79C3F0110DD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppOOP8", "ConsoleAppOOP8\ConsoleAppOOP8.csproj", "{A0815B51-E500-4C3A-B073-F726932D3C81}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppOOP8", "ConsoleAppOOP8\ConsoleAppOOP8.csproj", "{A0815B51-E500-4C3A-B073-F726932D3C81}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppInher1", "ConsoleAppInher1\ConsoleAppInher1.csproj", "{EBCEDD94-D04C-4550-B9AC-EE11138417CE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppInher1", "ConsoleAppInher1\ConsoleAppInher1.csproj", "{EBCEDD94-D04C-4550-B9AC-EE11138417CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppInher2", "ConsoleAppInher2\ConsoleAppInher2.csproj", "{0408D6A4-B35F-4FF1-8314-EC49C02209FB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppInher2", "ConsoleAppInher2\ConsoleAppInher2.csproj", "{0408D6A4-B35F-4FF1-8314-EC49C02209FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppInher3", "ConsoleAppInher3\ConsoleAppInher3.csproj", "{128A1A2C-5AAC-4738-8BBC-185D8F765286}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppInher3", "ConsoleAppInher3\ConsoleAppInher3.csproj", "{128A1A2C-5AAC-4738-8BBC-185D8F765286}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppInher4", "ConsoleAppInher4\ConsoleAppInher4.csproj", "{44ABA9D4-9D34-4327-9EDE-0F1D87398533}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppInher5", "ConsoleAppInher5\ConsoleAppInher5.csproj", "{D396157C-6762-47E2-AAB6-BC430BD7DC31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppInher6", "ConsoleAppInher6\ConsoleAppInher6.csproj", "{8CD37976-1206-414C-A0D1-BE8479673115}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -272,6 +278,18 @@ Global
 		{128A1A2C-5AAC-4738-8BBC-185D8F765286}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{128A1A2C-5AAC-4738-8BBC-185D8F765286}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{128A1A2C-5AAC-4738-8BBC-185D8F765286}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44ABA9D4-9D34-4327-9EDE-0F1D87398533}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44ABA9D4-9D34-4327-9EDE-0F1D87398533}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44ABA9D4-9D34-4327-9EDE-0F1D87398533}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44ABA9D4-9D34-4327-9EDE-0F1D87398533}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D396157C-6762-47E2-AAB6-BC430BD7DC31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D396157C-6762-47E2-AAB6-BC430BD7DC31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D396157C-6762-47E2-AAB6-BC430BD7DC31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D396157C-6762-47E2-AAB6-BC430BD7DC31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CD37976-1206-414C-A0D1-BE8479673115}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CD37976-1206-414C-A0D1-BE8479673115}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CD37976-1206-414C-A0D1-BE8479673115}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CD37976-1206-414C-A0D1-BE8479673115}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
