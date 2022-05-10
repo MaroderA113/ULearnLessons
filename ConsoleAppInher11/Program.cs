@@ -58,7 +58,7 @@ namespace ConsoleAppInher10
 				{
 					var element1 = array.GetValue(j);
 					var element0 = array.GetValue(j - 1);
-					// Compare сравнивает два объекта (-1, 0, 1)
+					// метод Compare интерфейса "IComparer" сравнивает два объекта (-1, 0, 1)
 					if (comparer.Compare(element1, element0) < 0)
 					{
 						array.Swap(j - 1, j);
