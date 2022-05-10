@@ -8,12 +8,18 @@ namespace ConsoleAppInher10
 		public double X;
 		public double Y;
 
+		double DistanceToZero(Point point)
+		{
+			return Math.Sqrt(point.X * point.X + point.Y * point.Y);
+		}
+		
 		//реализация метода "CompareTo" для соответствия интерфейсу "IComparable"
 		public int CompareTo(object obj)
 		{
 			var point = (Point)obj;
-			var thisDistance = Math.Sqrt(X * X + Y * Y);
-			var thatDistance = Math.Sqrt(point.X * point.X + point.Y * point.Y);
+			// вызов вспомогательного метода
+			var thisDistance = DistanceToZero(this);
+			var thatDistance = DistanceToZero(point);
 			return thisDistance.CompareTo(thatDistance);
 			//или
 			//if (thisDistance < thatDistance) return -1;
@@ -57,8 +63,8 @@ namespace ConsoleAppInher10
 		static void Main(string[] args)
 		{
 			var intArray = new int[] { 1, 3, 2 };
-			var stringArray = new string[] { "B", "A", "C" };
-			var doubleArray = new double[] { 3, 2, 1 };
+			var stringArray = new string[] { "BAC", "ACD", "CBA" };
+			var doubleArray = new double[] { 3.4, 2.55, 1.999 };
 			var pointArray = new Point[]
 			{
 				new Point { X=3, Y=3 },
@@ -74,6 +80,6 @@ namespace ConsoleAppInher10
 			stringArray.BubbleSort();
 			doubleArray.BubbleSort();
 			pointArray.BubbleSort();
-		}
+		 }
 	}
 }

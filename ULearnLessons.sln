@@ -97,13 +97,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppInher5", "Console
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppInher6", "ConsoleAppInher6\ConsoleAppInher6.csproj", "{8CD37976-1206-414C-A0D1-BE8479673115}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppInher7", "ConsoleAppIner7\ConsoleAppInher7.csproj", "{E8953EA0-6D3D-4BED-A1E7-31E53BB63FFC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppInher7", "ConsoleAppIner7\ConsoleAppInher7.csproj", "{E8953EA0-6D3D-4BED-A1E7-31E53BB63FFC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppInher8", "ConsoleAppInher8\ConsoleAppInher8.csproj", "{28A5C9D8-E6FC-489C-AAFA-62DFD048A5FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppInher8", "ConsoleAppInher8\ConsoleAppInher8.csproj", "{28A5C9D8-E6FC-489C-AAFA-62DFD048A5FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppInher9", "ConsoleAppInher9\ConsoleAppInher9.csproj", "{C0F2B07A-1C76-4BD1-8099-1FAAEC261383}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppInher9", "ConsoleAppInher9\ConsoleAppInher9.csproj", "{C0F2B07A-1C76-4BD1-8099-1FAAEC261383}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppInher10", "ConsoleAppInher10\ConsoleAppInher10.csproj", "{2F94B895-E425-486E-B8F1-4516399E253B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppInher10", "ConsoleAppInher10\ConsoleAppInher10.csproj", "{2F94B895-E425-486E-B8F1-4516399E253B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppInher11", "ConsoleAppInher11\ConsoleAppInher11.csproj", "{FFD1D6DD-2F4C-4EC7-8D57-D814F03EDE7E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -314,6 +316,10 @@ Global
 		{2F94B895-E425-486E-B8F1-4516399E253B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F94B895-E425-486E-B8F1-4516399E253B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F94B895-E425-486E-B8F1-4516399E253B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FFD1D6DD-2F4C-4EC7-8D57-D814F03EDE7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFD1D6DD-2F4C-4EC7-8D57-D814F03EDE7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFD1D6DD-2F4C-4EC7-8D57-D814F03EDE7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFD1D6DD-2F4C-4EC7-8D57-D814F03EDE7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
