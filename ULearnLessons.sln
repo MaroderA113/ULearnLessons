@@ -105,25 +105,31 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppInher9", "Console
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppInher10", "ConsoleAppInher10\ConsoleAppInher10.csproj", "{2F94B895-E425-486E-B8F1-4516399E253B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppInher11", "ConsoleAppInher11\ConsoleAppInher11.csproj", "{FFD1D6DD-2F4C-4EC7-8D57-D814F03EDE7E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppInher11", "ConsoleAppInher11\ConsoleAppInher11.csproj", "{FFD1D6DD-2F4C-4EC7-8D57-D814F03EDE7E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppInher12", "ConsoleAppInher12\ConsoleAppInher12.csproj", "{04BF51DF-4E8B-4E1B-B1D5-781355C99CC5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppInher12", "ConsoleAppInher12\ConsoleAppInher12.csproj", "{04BF51DF-4E8B-4E1B-B1D5-781355C99CC5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppPriv1", "ConsoleAppPriv1\ConsoleAppPriv1.csproj", "{3A8EF7E9-433A-4D91-B85D-F4CDBE17A673}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppPriv1", "ConsoleAppPriv1\ConsoleAppPriv1.csproj", "{3A8EF7E9-433A-4D91-B85D-F4CDBE17A673}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppPriv2", "ConsoleAppPriv2\ConsoleAppPriv2.csproj", "{6F91DE82-0BCD-4AE0-8A8B-8DCC36277C08}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppPriv2", "ConsoleAppPriv2\ConsoleAppPriv2.csproj", "{6F91DE82-0BCD-4AE0-8A8B-8DCC36277C08}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppPriv3", "ConsoleAppPriv3\ConsoleAppPriv3.csproj", "{846A6A5A-AF2E-4D92-9DF0-DE9D65830822}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppPriv3", "ConsoleAppPriv3\ConsoleAppPriv3.csproj", "{846A6A5A-AF2E-4D92-9DF0-DE9D65830822}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppPriv4", "ConsoleAppPriv4\ConsoleAppPriv4.csproj", "{FF64A71A-E63B-42AA-ADDA-0D646DD611E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppPriv4", "ConsoleAppPriv4\ConsoleAppPriv4.csproj", "{FF64A71A-E63B-42AA-ADDA-0D646DD611E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppPriv5", "ConsoleAppPriv5\ConsoleAppPriv5.csproj", "{A6DF83C6-80D9-4447-B0D1-C0136992663C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppPriv5", "ConsoleAppPriv5\ConsoleAppPriv5.csproj", "{A6DF83C6-80D9-4447-B0D1-C0136992663C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppPriv6", "ConsoleAppPriv6\ConsoleAppPriv6.csproj", "{3400B143-79D4-4700-8983-D9C011C85DE4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppPriv6", "ConsoleAppPriv6\ConsoleAppPriv6.csproj", "{3400B143-79D4-4700-8983-D9C011C85DE4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppPriv7", "ConsoleAppPriv7\ConsoleAppPriv7.csproj", "{690C9D59-4666-4EA3-9E97-110E9C58C924}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppPriv7", "ConsoleAppPriv7\ConsoleAppPriv7.csproj", "{690C9D59-4666-4EA3-9E97-110E9C58C924}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppPriv8", "ConsoleAppPriv8\ConsoleAppPriv8.csproj", "{0BE74D62-93A0-454C-B57C-B4359DBD4157}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppPriv8", "ConsoleAppPriv8\ConsoleAppPriv8.csproj", "{0BE74D62-93A0-454C-B57C-B4359DBD4157}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppStruct1", "ConsoleAppStruct1\ConsoleAppStruct1.csproj", "{311FC37C-7CD6-4BFD-B616-67268BD074E9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppStruct2", "ConsoleAppStruct2\ConsoleAppStruct2.csproj", "{40EA3F4C-78F5-4856-919C-44C894897944}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppStruct3", "ConsoleAppStruct3\ConsoleAppStruct3.csproj", "{638117E6-4E0E-4C07-BA7D-A772DF80F334}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -374,6 +380,18 @@ Global
 		{0BE74D62-93A0-454C-B57C-B4359DBD4157}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0BE74D62-93A0-454C-B57C-B4359DBD4157}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0BE74D62-93A0-454C-B57C-B4359DBD4157}.Release|Any CPU.Build.0 = Release|Any CPU
+		{311FC37C-7CD6-4BFD-B616-67268BD074E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{311FC37C-7CD6-4BFD-B616-67268BD074E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{311FC37C-7CD6-4BFD-B616-67268BD074E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{311FC37C-7CD6-4BFD-B616-67268BD074E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40EA3F4C-78F5-4856-919C-44C894897944}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40EA3F4C-78F5-4856-919C-44C894897944}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40EA3F4C-78F5-4856-919C-44C894897944}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40EA3F4C-78F5-4856-919C-44C894897944}.Release|Any CPU.Build.0 = Release|Any CPU
+		{638117E6-4E0E-4C07-BA7D-A772DF80F334}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{638117E6-4E0E-4C07-BA7D-A772DF80F334}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{638117E6-4E0E-4C07-BA7D-A772DF80F334}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{638117E6-4E0E-4C07-BA7D-A772DF80F334}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
