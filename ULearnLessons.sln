@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.32228.343
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp7", "ConsoleApp7\ConsoleApp7.csproj", "{DCDB84D8-4020-4EDD-B41C-544B9D3D29D5}"
 EndProject
@@ -125,15 +125,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppPriv7", "ConsoleA
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppPriv8", "ConsoleAppPriv8\ConsoleAppPriv8.csproj", "{0BE74D62-93A0-454C-B57C-B4359DBD4157}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppStruct1", "ConsoleAppStruct1\ConsoleAppStruct1.csproj", "{311FC37C-7CD6-4BFD-B616-67268BD074E9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppStruct1", "ConsoleAppStruct1\ConsoleAppStruct1.csproj", "{311FC37C-7CD6-4BFD-B616-67268BD074E9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppStruct2", "ConsoleAppStruct2\ConsoleAppStruct2.csproj", "{40EA3F4C-78F5-4856-919C-44C894897944}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppStruct2", "ConsoleAppStruct2\ConsoleAppStruct2.csproj", "{40EA3F4C-78F5-4856-919C-44C894897944}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppStruct3", "ConsoleAppStruct3\ConsoleAppStruct3.csproj", "{638117E6-4E0E-4C07-BA7D-A772DF80F334}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppStruct3", "ConsoleAppStruct3\ConsoleAppStruct3.csproj", "{638117E6-4E0E-4C07-BA7D-A772DF80F334}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppStruct4", "ConsoleAppStruct4\ConsoleAppStruct4.csproj", "{3DF9FB41-DBD5-49C5-8EB8-9012C453F713}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppStruct4", "ConsoleAppStruct4\ConsoleAppStruct4.csproj", "{3DF9FB41-DBD5-49C5-8EB8-9012C453F713}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppStruct5", "ConsoleAppStruct5\ConsoleAppStruct5.csproj", "{8C62C129-FF40-49DE-8018-44B55412D2E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppStruct5", "ConsoleAppStruct5\ConsoleAppStruct5.csproj", "{8C62C129-FF40-49DE-8018-44B55412D2E1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Linq", "Linq", "{4F8FAD56-DA83-47FB-B8FB-09F07B84E32D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1_Linq", "ConsoleApp1_Linq\ConsoleApp1_Linq.csproj", "{F3327713-B2F2-4DE2-8213-E526F62F42C2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary2_Linq", "ClassLibrary2_Linq\ClassLibrary2_Linq.csproj", "{E65A3228-E46C-4C38-9609-D684E69A4DDB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1_Linq", "ClassLibrary1_Linq\ClassLibrary1_Linq.csproj", "{668FB283-405F-4B84-9DF6-5ECFFF8DA397}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -404,9 +412,26 @@ Global
 		{8C62C129-FF40-49DE-8018-44B55412D2E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C62C129-FF40-49DE-8018-44B55412D2E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C62C129-FF40-49DE-8018-44B55412D2E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3327713-B2F2-4DE2-8213-E526F62F42C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3327713-B2F2-4DE2-8213-E526F62F42C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3327713-B2F2-4DE2-8213-E526F62F42C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3327713-B2F2-4DE2-8213-E526F62F42C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E65A3228-E46C-4C38-9609-D684E69A4DDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E65A3228-E46C-4C38-9609-D684E69A4DDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E65A3228-E46C-4C38-9609-D684E69A4DDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E65A3228-E46C-4C38-9609-D684E69A4DDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{668FB283-405F-4B84-9DF6-5ECFFF8DA397}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{668FB283-405F-4B84-9DF6-5ECFFF8DA397}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{668FB283-405F-4B84-9DF6-5ECFFF8DA397}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{668FB283-405F-4B84-9DF6-5ECFFF8DA397}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{F3327713-B2F2-4DE2-8213-E526F62F42C2} = {4F8FAD56-DA83-47FB-B8FB-09F07B84E32D}
+		{E65A3228-E46C-4C38-9609-D684E69A4DDB} = {4F8FAD56-DA83-47FB-B8FB-09F07B84E32D}
+		{668FB283-405F-4B84-9DF6-5ECFFF8DA397} = {4F8FAD56-DA83-47FB-B8FB-09F07B84E32D}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5A25CF99-151E-441D-AF0A-B93C0C2CD80D}
