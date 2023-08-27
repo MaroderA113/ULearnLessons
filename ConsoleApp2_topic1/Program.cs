@@ -1,4 +1,4 @@
-﻿namespace ConsoleApp2_topic1
+﻿namespace p2t1_ConsoleApp2
 {
 	/// <summary>
 	/// Элемент очереди
