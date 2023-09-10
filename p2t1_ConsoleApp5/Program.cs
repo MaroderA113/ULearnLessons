@@ -2,7 +2,7 @@
 
 public class Program
 {
-	public static void MainX()
+	public static void Main()
 	{
 		Console.WriteLine(IsCorrectString("(([])[])"));
 		Console.WriteLine(IsCorrectString("((][])"));
