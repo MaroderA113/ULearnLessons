@@ -1,7 +1,7 @@
 using NUnit.Framework;
 using Solver;
 
-namespace TestProject1
+namespace QuadraticEquationSolverTest
 {
 	[TestFixture] // <= это называется атрибут.
                 // Таким атрибутом нужно пометить класс, чтобы система тестирования начала искать в нем тесты.

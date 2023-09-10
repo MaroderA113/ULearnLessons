@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Solver\Solver.csproj" />
+    <ProjectReference Include="..\..\Testing\Solver\Solver.csproj" />
   </ItemGroup>
 
 </Project>
