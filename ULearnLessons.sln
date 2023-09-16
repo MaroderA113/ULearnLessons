@@ -203,15 +203,17 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Arrays", "Arrays", "{633142
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Recursive algorithms", "Recursive algorithms", "{370A5A43-A54E-46A8-980C-8822C5242099}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p2t1_ConsoleApp7", "Path2\Queues, stacks, generics\p2t1_ConsoleApp7\p2t1_ConsoleApp7.csproj", "{035C0CD1-7D88-4E1C-85FA-BA3A9CAD818D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p2t1_ConsoleApp7", "Path2\Queues, stacks, generics\p2t1_ConsoleApp7\p2t1_ConsoleApp7.csproj", "{035C0CD1-7D88-4E1C-85FA-BA3A9CAD818D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p2t1_ConsoleApp8", "Path2\Queues, stacks, generics\p2t1_ConsoleApp8\p2t1_ConsoleApp8.csproj", "{5B58C4E6-7B50-4F17-BD6B-680575FE3A05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p2t1_ConsoleApp8", "Path2\Queues, stacks, generics\p2t1_ConsoleApp8\p2t1_ConsoleApp8.csproj", "{5B58C4E6-7B50-4F17-BD6B-680575FE3A05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p2t1_ConsoleApp9", "p2t1_ConsoleApp9\p2t1_ConsoleApp9.csproj", "{80BEAD04-1E86-4BCF-9846-EDEBFE1781A4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p2t1_ConsoleApp9", "Path2\Queues, stacks, generics\p2t1_ConsoleApp9\p2t1_ConsoleApp9.csproj", "{80BEAD04-1E86-4BCF-9846-EDEBFE1781A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p2t1_ConsoleApp10", "p2t1_ConsoleApp10\p2t1_ConsoleApp10.csproj", "{AC6455DA-1F79-403C-B92C-EF6421B29F51}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p2t1_ConsoleApp10", "Path2\Queues, stacks, generics\p2t1_ConsoleApp10\p2t1_ConsoleApp10.csproj", "{AC6455DA-1F79-403C-B92C-EF6421B29F51}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p2t1_ConsoleApp11", "Path2\Queues, stacks, generics\p2t1_ConsoleApp11\p2t1_ConsoleApp11.csproj", "{CFD23292-0127-4091-ABF8-F404F42DDC79}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p2t1_ConsoleApp11", "Path2\Queues, stacks, generics\p2t1_ConsoleApp11\p2t1_ConsoleApp11.csproj", "{CFD23292-0127-4091-ABF8-F404F42DDC79}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p2t1_ConsoleApp12", "Path2\Queues, stacks, generics\p2t1_ConsoleApp12\p2t1_ConsoleApp12.csproj", "{BE235FBE-53DA-4284-8ACE-475180B218DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -582,6 +584,10 @@ Global
 		{CFD23292-0127-4091-ABF8-F404F42DDC79}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFD23292-0127-4091-ABF8-F404F42DDC79}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFD23292-0127-4091-ABF8-F404F42DDC79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE235FBE-53DA-4284-8ACE-475180B218DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE235FBE-53DA-4284-8ACE-475180B218DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE235FBE-53DA-4284-8ACE-475180B218DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE235FBE-53DA-4284-8ACE-475180B218DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -689,6 +695,7 @@ Global
 		{80BEAD04-1E86-4BCF-9846-EDEBFE1781A4} = {D8923B05-7972-43DD-AF9C-589A9214A295}
 		{AC6455DA-1F79-403C-B92C-EF6421B29F51} = {D8923B05-7972-43DD-AF9C-589A9214A295}
 		{CFD23292-0127-4091-ABF8-F404F42DDC79} = {D8923B05-7972-43DD-AF9C-589A9214A295}
+		{BE235FBE-53DA-4284-8ACE-475180B218DD} = {D8923B05-7972-43DD-AF9C-589A9214A295}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5A25CF99-151E-441D-AF0A-B93C0C2CD80D}
