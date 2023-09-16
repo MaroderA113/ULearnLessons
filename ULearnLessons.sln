@@ -209,6 +209,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p2t1_ConsoleApp8", "Path2\Q
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p2t1_ConsoleApp9", "p2t1_ConsoleApp9\p2t1_ConsoleApp9.csproj", "{80BEAD04-1E86-4BCF-9846-EDEBFE1781A4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p2t1_ConsoleApp10", "p2t1_ConsoleApp10\p2t1_ConsoleApp10.csproj", "{AC6455DA-1F79-403C-B92C-EF6421B29F51}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -570,6 +572,10 @@ Global
 		{80BEAD04-1E86-4BCF-9846-EDEBFE1781A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80BEAD04-1E86-4BCF-9846-EDEBFE1781A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80BEAD04-1E86-4BCF-9846-EDEBFE1781A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC6455DA-1F79-403C-B92C-EF6421B29F51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC6455DA-1F79-403C-B92C-EF6421B29F51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC6455DA-1F79-403C-B92C-EF6421B29F51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC6455DA-1F79-403C-B92C-EF6421B29F51}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -675,6 +681,7 @@ Global
 		{035C0CD1-7D88-4E1C-85FA-BA3A9CAD818D} = {D8923B05-7972-43DD-AF9C-589A9214A295}
 		{5B58C4E6-7B50-4F17-BD6B-680575FE3A05} = {D8923B05-7972-43DD-AF9C-589A9214A295}
 		{80BEAD04-1E86-4BCF-9846-EDEBFE1781A4} = {D8923B05-7972-43DD-AF9C-589A9214A295}
+		{AC6455DA-1F79-403C-B92C-EF6421B29F51} = {D8923B05-7972-43DD-AF9C-589A9214A295}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5A25CF99-151E-441D-AF0A-B93C0C2CD80D}
