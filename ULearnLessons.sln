@@ -235,6 +235,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p2t3_ConsoleApp2", "Path2\S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p2t3_ConsoleApp3", "Path2\Sheets, dictionaries\p2t3_ConsoleApp3\p2t3_ConsoleApp3.csproj", "{83650344-946A-490C-A5A5-92C2EB970BEC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p2t3_ConsoleApp4", "Path2\Sheets, dictionaries\p2t3_ConsoleApp4\p2t3_ConsoleApp4.csproj", "{C19346CC-3FA1-4EE4-AFBB-458A86A26131}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -640,6 +642,10 @@ Global
 		{83650344-946A-490C-A5A5-92C2EB970BEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83650344-946A-490C-A5A5-92C2EB970BEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83650344-946A-490C-A5A5-92C2EB970BEC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C19346CC-3FA1-4EE4-AFBB-458A86A26131}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C19346CC-3FA1-4EE4-AFBB-458A86A26131}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C19346CC-3FA1-4EE4-AFBB-458A86A26131}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C19346CC-3FA1-4EE4-AFBB-458A86A26131}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -758,6 +764,7 @@ Global
 		{C318E4E1-6435-4993-917E-3BF09DE348C5} = {7D608804-C78B-4321-A612-2857D5FBA8F6}
 		{CD9E4B2D-7DF8-45BF-89EE-C576E43D8440} = {7D608804-C78B-4321-A612-2857D5FBA8F6}
 		{83650344-946A-490C-A5A5-92C2EB970BEC} = {7D608804-C78B-4321-A612-2857D5FBA8F6}
+		{C19346CC-3FA1-4EE4-AFBB-458A86A26131} = {7D608804-C78B-4321-A612-2857D5FBA8F6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5A25CF99-151E-441D-AF0A-B93C0C2CD80D}
