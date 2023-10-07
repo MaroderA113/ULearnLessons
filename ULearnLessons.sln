@@ -217,15 +217,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p2t1_ConsoleApp12", "Path2\
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "yield return", "yield return", "{4DAFF1E2-9C22-4A95-A695-2F81E4A51B2D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p2t2_ConsoleApp1", "Path2\yield return\p2t2_ConsoleApp1\p2t2_ConsoleApp1.csproj", "{C319F1D0-BC24-463B-AEB1-82B258FB1970}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p2t2_ConsoleApp1", "Path2\yield return\p2t2_ConsoleApp1\p2t2_ConsoleApp1.csproj", "{C319F1D0-BC24-463B-AEB1-82B258FB1970}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p2t2_ConsoleApp2", "Path2\yield return\p2t2_ConsoleApp2\p2t2_ConsoleApp2.csproj", "{5A183BBC-1B0D-47B0-AAF8-D93DA32B2421}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p2t2_ConsoleApp3", "Path2\yield return\p2t2_ConsoleApp3\p2t2_ConsoleApp3.csproj", "{A3A8ADC6-AA60-4A42-8FD8-BAF7686672C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p2t2_ConsoleApp3", "Path2\yield return\p2t2_ConsoleApp3\p2t2_ConsoleApp3.csproj", "{A3A8ADC6-AA60-4A42-8FD8-BAF7686672C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p2t2_ConsoleApp4", "Path2\yield return\p2t2_ConsoleApp4\p2t2_ConsoleApp4.csproj", "{B9D1882C-E527-4515-83B4-805BB8C3FE67}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p2t2_ConsoleApp4", "Path2\yield return\p2t2_ConsoleApp4\p2t2_ConsoleApp4.csproj", "{B9D1882C-E527-4515-83B4-805BB8C3FE67}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p2t2_ConsoleApp5", "Path2\yield return\p2t2_ConsoleApp5\p2t2_ConsoleApp5.csproj", "{684DE8BD-0E91-4200-81A2-DDA37C02AADE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p2t2_ConsoleApp5", "Path2\yield return\p2t2_ConsoleApp5\p2t2_ConsoleApp5.csproj", "{684DE8BD-0E91-4200-81A2-DDA37C02AADE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sheets, dictionaries", "Sheets, dictionaries", "{7D608804-C78B-4321-A612-2857D5FBA8F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p2t3_ConsoleApp1", "Path2\Sheets, dictionaries\p2t3_ConsoleApp1\p2t3_ConsoleApp1.csproj", "{C318E4E1-6435-4993-917E-3BF09DE348C5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -620,6 +624,10 @@ Global
 		{684DE8BD-0E91-4200-81A2-DDA37C02AADE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{684DE8BD-0E91-4200-81A2-DDA37C02AADE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{684DE8BD-0E91-4200-81A2-DDA37C02AADE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C318E4E1-6435-4993-917E-3BF09DE348C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C318E4E1-6435-4993-917E-3BF09DE348C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C318E4E1-6435-4993-917E-3BF09DE348C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C318E4E1-6435-4993-917E-3BF09DE348C5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -734,6 +742,8 @@ Global
 		{A3A8ADC6-AA60-4A42-8FD8-BAF7686672C1} = {4DAFF1E2-9C22-4A95-A695-2F81E4A51B2D}
 		{B9D1882C-E527-4515-83B4-805BB8C3FE67} = {4DAFF1E2-9C22-4A95-A695-2F81E4A51B2D}
 		{684DE8BD-0E91-4200-81A2-DDA37C02AADE} = {4DAFF1E2-9C22-4A95-A695-2F81E4A51B2D}
+		{7D608804-C78B-4321-A612-2857D5FBA8F6} = {E6589BB4-36CD-4ABA-865F-2D857320E8C7}
+		{C318E4E1-6435-4993-917E-3BF09DE348C5} = {7D608804-C78B-4321-A612-2857D5FBA8F6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5A25CF99-151E-441D-AF0A-B93C0C2CD80D}
