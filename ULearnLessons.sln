@@ -229,15 +229,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p2t2_ConsoleApp5", "Path2\y
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sheets, dictionaries", "Sheets, dictionaries", "{7D608804-C78B-4321-A612-2857D5FBA8F6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p2t3_ConsoleApp1", "Path2\Sheets, dictionaries\p2t3_ConsoleApp1\p2t3_ConsoleApp1.csproj", "{C318E4E1-6435-4993-917E-3BF09DE348C5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p2t3_ConsoleApp1", "Path2\Sheets, dictionaries\p2t3_ConsoleApp1\p2t3_ConsoleApp1.csproj", "{C318E4E1-6435-4993-917E-3BF09DE348C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p2t3_ConsoleApp2", "Path2\Sheets, dictionaries\p2t3_ConsoleApp2\p2t3_ConsoleApp2.csproj", "{CD9E4B2D-7DF8-45BF-89EE-C576E43D8440}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p2t3_ConsoleApp2", "Path2\Sheets, dictionaries\p2t3_ConsoleApp2\p2t3_ConsoleApp2.csproj", "{CD9E4B2D-7DF8-45BF-89EE-C576E43D8440}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p2t3_ConsoleApp3", "Path2\Sheets, dictionaries\p2t3_ConsoleApp3\p2t3_ConsoleApp3.csproj", "{83650344-946A-490C-A5A5-92C2EB970BEC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p2t3_ConsoleApp3", "Path2\Sheets, dictionaries\p2t3_ConsoleApp3\p2t3_ConsoleApp3.csproj", "{83650344-946A-490C-A5A5-92C2EB970BEC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p2t3_ConsoleApp4", "Path2\Sheets, dictionaries\p2t3_ConsoleApp4\p2t3_ConsoleApp4.csproj", "{C19346CC-3FA1-4EE4-AFBB-458A86A26131}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p2t3_ConsoleApp4", "Path2\Sheets, dictionaries\p2t3_ConsoleApp4\p2t3_ConsoleApp4.csproj", "{C19346CC-3FA1-4EE4-AFBB-458A86A26131}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p2t3_ConsoleApp5", "Path2\Sheets, dictionaries\p2t3_ConsoleApp5\p2t3_ConsoleApp5.csproj", "{00633E74-83E2-4140-92E9-6ADB979311B2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p2t3_ConsoleApp5", "Path2\Sheets, dictionaries\p2t3_ConsoleApp5\p2t3_ConsoleApp5.csproj", "{00633E74-83E2-4140-92E9-6ADB979311B2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Delegates", "Delegates", "{F223251B-F7EE-411D-8F05-9391C1F16AA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p2t4_ConsoleApp1", "Path2\Delegates\p2t4_ConsoleApp1\p2t4_ConsoleApp1.csproj", "{A5C3EF6C-1D6A-4C6F-924D-9B1B41F9D0B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p2t4_ConsoleApp2", "Path2\Delegates\p2t4_ConsoleApp2\p2t4_ConsoleApp2.csproj", "{892D0752-6112-40C2-95DD-F38313A94FB6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -652,6 +658,14 @@ Global
 		{00633E74-83E2-4140-92E9-6ADB979311B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00633E74-83E2-4140-92E9-6ADB979311B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00633E74-83E2-4140-92E9-6ADB979311B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5C3EF6C-1D6A-4C6F-924D-9B1B41F9D0B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5C3EF6C-1D6A-4C6F-924D-9B1B41F9D0B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5C3EF6C-1D6A-4C6F-924D-9B1B41F9D0B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5C3EF6C-1D6A-4C6F-924D-9B1B41F9D0B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{892D0752-6112-40C2-95DD-F38313A94FB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{892D0752-6112-40C2-95DD-F38313A94FB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{892D0752-6112-40C2-95DD-F38313A94FB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{892D0752-6112-40C2-95DD-F38313A94FB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -772,6 +786,9 @@ Global
 		{83650344-946A-490C-A5A5-92C2EB970BEC} = {7D608804-C78B-4321-A612-2857D5FBA8F6}
 		{C19346CC-3FA1-4EE4-AFBB-458A86A26131} = {7D608804-C78B-4321-A612-2857D5FBA8F6}
 		{00633E74-83E2-4140-92E9-6ADB979311B2} = {7D608804-C78B-4321-A612-2857D5FBA8F6}
+		{F223251B-F7EE-411D-8F05-9391C1F16AA9} = {E6589BB4-36CD-4ABA-865F-2D857320E8C7}
+		{A5C3EF6C-1D6A-4C6F-924D-9B1B41F9D0B4} = {F223251B-F7EE-411D-8F05-9391C1F16AA9}
+		{892D0752-6112-40C2-95DD-F38313A94FB6} = {F223251B-F7EE-411D-8F05-9391C1F16AA9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5A25CF99-151E-441D-AF0A-B93C0C2CD80D}
