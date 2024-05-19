@@ -273,29 +273,33 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Graphs", "Graphs", "{7F44FD
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p2t5_ConsoleApp1", "Path2\Graphs\p2t5_ConsoleApp1\p2t5_ConsoleApp1.csproj", "{ED083692-DAC5-4FF9-87CB-E2EC4BCD4262}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p2t5_ConsoleApp2", "Path2\Graphs\p2t5_ConsoleApp2\p2t5_ConsoleApp2.csproj", "{966463D6-940D-4848-AFEC-4ADFDEA2ED43}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p2t5_ConsoleApp2", "Path2\Graphs\p2t5_ConsoleApp2\p2t5_ConsoleApp2.csproj", "{966463D6-940D-4848-AFEC-4ADFDEA2ED43}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p2t5_ConsoleApp3", "Path2\Graphs\p2t5_ConsoleApp3\p2t5_ConsoleApp3.csproj", "{1E0699E0-22CE-47ED-8642-FC6CEF16A591}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p2t5_ConsoleApp3", "Path2\Graphs\p2t5_ConsoleApp3\p2t5_ConsoleApp3.csproj", "{1E0699E0-22CE-47ED-8642-FC6CEF16A591}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p2t5_ConsoleApp4", "Path2\Graphs\p2t5_ConsoleApp4\p2t5_ConsoleApp4.csproj", "{9948C16D-EBF9-412B-84DB-8500A8326727}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p2t5_ConsoleApp4", "Path2\Graphs\p2t5_ConsoleApp4\p2t5_ConsoleApp4.csproj", "{9948C16D-EBF9-412B-84DB-8500A8326727}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p2t5_ConsoleApp5", "Path2\Graphs\p2t5_ConsoleApp5\p2t5_ConsoleApp5.csproj", "{46DF96CA-D761-4485-B9FE-CEB6939B3A33}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p2t5_ConsoleApp5", "Path2\Graphs\p2t5_ConsoleApp5\p2t5_ConsoleApp5.csproj", "{46DF96CA-D761-4485-B9FE-CEB6939B3A33}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p2t5_ConsoleApp6", "Path2\Graphs\p2t5_ConsoleApp6\p2t5_ConsoleApp6.csproj", "{6DB2C8EB-7023-4A1B-9C96-B38C655F2419}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p2t5_ConsoleApp6", "Path2\Graphs\p2t5_ConsoleApp6\p2t5_ConsoleApp6.csproj", "{6DB2C8EB-7023-4A1B-9C96-B38C655F2419}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p2t5_ConsoleApp7", "Path2\Graphs\p2t5_ConsoleApp7\p2t5_ConsoleApp7.csproj", "{9852BF3D-3EFB-4F98-B764-4D2F885D6C75}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p2t5_ConsoleApp7", "Path2\Graphs\p2t5_ConsoleApp7\p2t5_ConsoleApp7.csproj", "{9852BF3D-3EFB-4F98-B764-4D2F885D6C75}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p2t5_ConsoleApp8", "Path2\Graphs\p2t5_ConsoleApp8\p2t5_ConsoleApp8.csproj", "{28F35F64-7473-45A3-93DC-A28FF9F13082}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p2t5_ConsoleApp8", "Path2\Graphs\p2t5_ConsoleApp8\p2t5_ConsoleApp8.csproj", "{28F35F64-7473-45A3-93DC-A28FF9F13082}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p2t5_ConsoleApp9", "Path2\Graphs\p2t5_ConsoleApp9\p2t5_ConsoleApp9.csproj", "{314B07B3-61DC-4C22-972B-7043AB8F7198}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p2t5_ConsoleApp9", "Path2\Graphs\p2t5_ConsoleApp9\p2t5_ConsoleApp9.csproj", "{314B07B3-61DC-4C22-972B-7043AB8F7198}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p2t5_ConsoleApp10", "Path2\Graphs\p2t5_ConsoleApp10\p2t5_ConsoleApp10.csproj", "{7319A55F-84FF-413A-8B07-3C2D31E6D493}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p2t5_ConsoleApp10", "Path2\Graphs\p2t5_ConsoleApp10\p2t5_ConsoleApp10.csproj", "{7319A55F-84FF-413A-8B07-3C2D31E6D493}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p2t5_ConsoleApp11", "Path2\Graphs\p2t5_ConsoleApp11\p2t5_ConsoleApp11.csproj", "{C10F7740-CC24-493F-946C-224B3FE94ABE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p2t5_ConsoleApp11", "Path2\Graphs\p2t5_ConsoleApp11\p2t5_ConsoleApp11.csproj", "{C10F7740-CC24-493F-946C-224B3FE94ABE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p2t5_ConsoleApp12", "Path2\Graphs\p2t5_ConsoleApp12\p2t5_ConsoleApp12.csproj", "{EB837103-86C4-452C-9B91-3272D3044E2F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p2t5_ConsoleApp12", "Path2\Graphs\p2t5_ConsoleApp12\p2t5_ConsoleApp12.csproj", "{EB837103-86C4-452C-9B91-3272D3044E2F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p2t5_ConsoleApp13", "Path2\Graphs\p2t5_ConsoleApp13\p2t5_ConsoleApp13.csproj", "{D0CB58C2-0486-42CC-B052-54A2DA6DE1BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "p2t5_ConsoleApp13", "Path2\Graphs\p2t5_ConsoleApp13\p2t5_ConsoleApp13.csproj", "{D0CB58C2-0486-42CC-B052-54A2DA6DE1BD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "greedy", "greedy", "{194DB569-E05B-4763-9160-1A36516D0CE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "p2t6_ConsoleApp1", "Path2\greedy\p2t6_ConsoleApp1\p2t6_ConsoleApp1.csproj", "{DFEF0744-B808-4FF5-8195-EE561A6B487E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -818,6 +822,10 @@ Global
 		{D0CB58C2-0486-42CC-B052-54A2DA6DE1BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0CB58C2-0486-42CC-B052-54A2DA6DE1BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0CB58C2-0486-42CC-B052-54A2DA6DE1BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DFEF0744-B808-4FF5-8195-EE561A6B487E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFEF0744-B808-4FF5-8195-EE561A6B487E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFEF0744-B808-4FF5-8195-EE561A6B487E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFEF0744-B808-4FF5-8195-EE561A6B487E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -967,6 +975,8 @@ Global
 		{C10F7740-CC24-493F-946C-224B3FE94ABE} = {7F44FDFC-090B-4779-AB24-385A3E176BF9}
 		{EB837103-86C4-452C-9B91-3272D3044E2F} = {7F44FDFC-090B-4779-AB24-385A3E176BF9}
 		{D0CB58C2-0486-42CC-B052-54A2DA6DE1BD} = {7F44FDFC-090B-4779-AB24-385A3E176BF9}
+		{194DB569-E05B-4763-9160-1A36516D0CE2} = {E6589BB4-36CD-4ABA-865F-2D857320E8C7}
+		{DFEF0744-B808-4FF5-8195-EE561A6B487E} = {194DB569-E05B-4763-9160-1A36516D0CE2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {5A25CF99-151E-441D-AF0A-B93C0C2CD80D}
